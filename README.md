@@ -56,7 +56,7 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 
 ## Requirement
 + iOS 13.0+
-+ Xcode 11.0
++ Xcode 12.3
 
 ## Contacts
 Eric Tang erictangappdev@gmail.com
