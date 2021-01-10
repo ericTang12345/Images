@@ -39,7 +39,7 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 查看自己的貼文、漂流瓶、收藏貼文
 + 點擊貼文可以查看更多貼文資訊
 
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Time%20Box/Time%20Box.gif" width= 234.5 height= 480>
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Time%20Box/Time%20Box%20To%20Post%20Details.gif" width= 234.5 height= 480>
 
 ## Libraries
 + SwiftLint
