@@ -12,9 +12,7 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 隱藏、封鎖功能，可以讓你隱藏、封鎖不想看到的內容
 + 點擊圖片可以查看大圖
 
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Home%20Page.gif" width= 234.5 height= 480>
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Image%20Details.gif" width= 234.5 height= 480>
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Add%20New%20Post.gif" width= 234.5 height= 480>
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Home%20Page.gif" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Image%20Details.gif" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Add%20New%20Post.gif" width= 234.5 height= 480>
 
 ### 新增貼文
 + 選擇貼文分類
