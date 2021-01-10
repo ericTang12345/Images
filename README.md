@@ -28,16 +28,18 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 不署名則不會有人收到，可以讓你傾訴不想告訴別人的秘密
 + 收到漂流瓶的人可以決定是否要與發送漂流瓶的人建立聊天室
 
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Drift%20Bottle%20Page.png" width= 234.5 height= 480>
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Chat%20Room%20Page.png" width= 234.5 height= 480>
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Drift%20Bottle%20Page.gif" width= 234.5 height= 480>
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Drift%20Bottle%20Page.png" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Chat%20Room%20Page.png" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Drift%20Bottle%20Page.gif" width= 234.5 height= 480>
 
 ### 共同編輯暱稱
 + 暱稱分為主詞與形容詞，你可以新增想要被隨機更換的主詞與形容詞
 
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Random%20Name/Random%20Name.gif" width= 234.5 height= 480>
+
 ### 時光寶盒
 + 查看自己的貼文、漂流瓶、收藏貼文
 + 點擊貼文可以查看更多貼文資訊
+
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Time%20Box/Time%20Box.gif" width= 234.5 height= 480>
 
 ## Libraries
 + SwiftLint
