@@ -12,7 +12,7 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 隱藏、封鎖功能，可以讓你隱藏、封鎖不想看到的內容
 + 點擊圖片可以查看大圖
 
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Home%20Page.gif" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Image%20Details.gif" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Add%20New%20Post.gif" width= 234.5 height= 480>
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Home%20Page.gif" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Image%20Details.gif" width= 234.5 height= 480>
 
 ### 新增貼文
 + 選擇貼文分類
@@ -20,6 +20,8 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 透過拍照或者選擇相簿加入圖片
 + 加入貼文的標籤
 + 貼文分類是議題討論時，加入投票選項
+
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Add%20New%20Post.gif" width= 234.5 height= 480>
 
 ### 漂流瓶
 + 發送漂流瓶可選擇是否要署名，署名則會有隨機的人在隨機的時間內收到
