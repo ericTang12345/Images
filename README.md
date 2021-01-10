@@ -12,7 +12,7 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 隱藏、封鎖功能，可以讓你隱藏、封鎖不想看到的內容
 + 點擊圖片可以查看大圖
 
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Home%20Page.gif" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Image%20Details.gif" width= 234.5 height= 480>
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Post/Home%20Page.gif" width= 234.5 height= 480><img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Post/Image%20Details.gif" width= 234.5 height= 480>
 
 ### 新增貼文
 + 選擇貼文分類
@@ -21,13 +21,17 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 加入貼文的標籤
 + 貼文分類是議題討論時，可以加入投票選項
 
-<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Add%20New%20Post.gif" width= 234.5 height= 480>
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Add%20New%20Post/Add%20New%20Post.gif" width= 234.5 height= 480>
 
 ### 漂流瓶
 + 發送漂流瓶可選擇是否要署名，署名則會有隨機的人在隨機的時間內收到
 + 不署名則不會有人收到，可以讓你傾訴不想告訴別人的秘密
 + 收到漂流瓶的人可以決定是否要與發送漂流瓶的人建立聊天室
-   
+
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Drift%20Bottle%20Page.png" width= 234.5 height= 480>
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Chat%20Room%20Page.png" width= 234.5 height= 480>
+<img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Drift%20Bottle/Drift%20Bottle%20Page.gif" width= 234.5 height= 480>
+
 ### 共同編輯暱稱
 + 暱稱分為主詞與形容詞，你可以新增想要被隨機更換的主詞與形容詞
 
