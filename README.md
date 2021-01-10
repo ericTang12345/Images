@@ -9,4 +9,4 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 查看所有使用者的貼文與議題
 + 按讚、收藏、回應、投票、隱藏、封鎖功能
 
-<img src= "https://github.com/ericTang12345/Images/blob/main/Image%20from%20iOS.gif">
+<img src= "https://github.com/ericTang12345/Images/blob/main/Image%20from%20iOS.gif" width= 270 height= 480>
