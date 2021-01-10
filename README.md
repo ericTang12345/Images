@@ -19,7 +19,7 @@ Real 提供一個匿名的平台，讓你可以不需在意身分可以輕鬆的
 + 輸入貼文內容
 + 透過拍照或者選擇相簿加入圖片
 + 加入貼文的標籤
-+ 貼文分類是議題討論時，加入投票選項
++ 貼文分類是議題討論時，可以加入投票選項
 
 <img src= "https://github.com/ericTang12345/Images/blob/main/Real%20README/Add%20New%20Post.gif" width= 234.5 height= 480>
 
